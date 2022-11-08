@@ -15,6 +15,7 @@ GitHub, Google에서 제공하는 사용자 정보를 활용해 인증 인가 �
 ### Library
 
 - `spring-boot-starter-oauth2-client`
+- `spring-boot-starter-data-jpa`
 - `spring-boot-starter-web`
 - `spring-session-core`
 - `lombok`
